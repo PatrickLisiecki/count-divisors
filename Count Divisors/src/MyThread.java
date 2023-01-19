@@ -1,4 +1,3 @@
-
 public class MyThread extends Thread {
 	//Each thread has a range of numbers to check and stores the number with the most divisors in that range
 	private int startNum, endNum, mostDivisors, numWithMostDivisors;
